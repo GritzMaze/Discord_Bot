@@ -1,0 +1,976 @@
+{
+  "maps": [
+    {
+      "name": "ze_666_crazy_escape_v1_1.bsp.bz2",
+      "lastModified": "2019-08-30 17:41  "
+    },
+    {
+      "name": "ze_666_crazy_escape_v1_1.nav.bz2",
+      "lastModified": "2019-08-30 17:36  "
+    },
+    {
+      "name": "ze_A_E_S_T_H_E_T_I_C_v1_1.bsp.bz2",
+      "lastModified": "2019-09-19 15:17  "
+    },
+    {
+      "name": "ze_Ancient_wrath_r4.bsp.bz2",
+      "lastModified": "2019-08-30 18:17  "
+    },
+    {
+      "name": "ze_Bathroom_v2_5.bsp.bz2",
+      "lastModified": "2019-09-19 15:15  "
+    },
+    {
+      "name": "ze_CV_LOSII_Castle_Siege_b4.bsp.bz2",
+      "lastModified": "2019-08-30 17:16  "
+    },
+    {
+      "name": "ze_Death_Valley_b2.bsp.bz2",
+      "lastModified": "2019-09-19 14:59  "
+    },
+    {
+      "name": "ze_FFVII_Mako_Reactor_v5_3_v5.bsp.bz2",
+      "lastModified": "2019-09-19 15:30  "
+    },
+    {
+      "name": "ze_FFXII_Paramina_Rift_r4.bsp.bz2",
+      "lastModified": "2019-09-19 15:33  "
+    },
+    {
+      "name": "ze_FFXII_Westersand_v7_z9.bsp.bz2",
+      "lastModified": "2019-09-19 15:35  "
+    },
+    {
+      "name": "ze_FFXIV_Wanderers_Palace_v5_2.bsp.bz2",
+      "lastModified": "2019-09-24 17:38  "
+    },
+    {
+      "name": "ze_FFXIV_Wanderers_Palace_v6.bsp.bz2",
+      "lastModified": "2019-09-19 15:41  "
+    },
+    {
+      "name": "ze_LOTR_Helms_Deep_v5_p6.bsp.bz2",
+      "lastModified": "2019-09-24 10:18  "
+    },
+    {
+      "name": "ze_LOTR_Minas_Tiret_p2.bsp.bz2",
+      "lastModified": "2019-09-24 10:18  "
+    },
+    {
+      "name": "ze_LOTR_Mines_of_Moria_p2.bsp.bz2",
+      "lastModified": "2019-09-24 10:17  "
+    },
+    {
+      "name": "ze_LOTR_Mirkwood_v2_5.bsp.bz2",
+      "lastModified": "2019-08-30 11:18  "
+    },
+    {
+      "name": "ze_LOTR_Mount_Doom_p3.bsp.bz2",
+      "lastModified": "2019-09-24 10:17  "
+    },
+    {
+      "name": "ze_Pidaras_va2.bsp.bz2",
+      "lastModified": "2019-09-24 10:21  "
+    },
+    {
+      "name": "ze_Pirates_Port_Royal_v5_6.bsp.bz2",
+      "lastModified": "2019-08-15 14:37  "
+    },
+    {
+      "name": "ze_Pirates_Port_Royal_v5_6.nav.bz2",
+      "lastModified": "2019-08-15 14:35  "
+    },
+    {
+      "name": "ze_Pokemon_Rivals_v1_8.bsp.bz2",
+      "lastModified": "2019-08-30 17:39  "
+    },
+    {
+      "name": "ze_Pokemon_Rivals_v1_8.nav.bz2",
+      "lastModified": "2019-08-30 17:32  "
+    },
+    {
+      "name": "ze_R_W_B_Final.bsp.bz2",
+      "lastModified": "2019-08-30 10:37  "
+    },
+    {
+      "name": "ze_Random_p2.bsp.bz2",
+      "lastModified": "2019-10-01 09:09  "
+    },
+    {
+      "name": "ze_Rooftop_Runaway_Extended.bsp.bz2",
+      "lastModified": "2019-08-30 18:09  "
+    },
+    {
+      "name": "ze_RuinsInChaos_v1beta.bsp.bz2",
+      "lastModified": "2019-08-30 16:39  "
+    },
+    {
+      "name": "ze_SUMAI_facility_v1a.bsp.bz2",
+      "lastModified": "2019-08-30 11:19  "
+    },
+    {
+      "name": "ze_S_A_M_v1_4.bsp.bz2",
+      "lastModified": "2019-08-30 15:20  "
+    },
+    {
+      "name": "ze_S_A_M_v1_4.nav.bz2",
+      "lastModified": "2019-08-30 15:15  "
+    },
+    {
+      "name": "ze_ShroomForest3_p.bsp.bz2",
+      "lastModified": "2019-09-29 15:32  "
+    },
+    {
+      "name": "ze_Totemo_Roka_v1.bsp.bz2",
+      "lastModified": "2019-09-19 13:23  "
+    },
+    {
+      "name": "ze_apocatastasis_v1_2.bsp.bz2",
+      "lastModified": "2019-09-19 15:06  "
+    },
+    {
+      "name": "ze_ardeca_revamp.bsp.bz2",
+      "lastModified": "2019-08-31 18:52  "
+    },
+    {
+      "name": "ze_artika_base_v1_2.bsp.bz2",
+      "lastModified": "2019-09-19 15:11  "
+    },
+    {
+      "name": "ze_atix_panic_v1.bsp.bz2",
+      "lastModified": "2019-09-19 15:12  "
+    },
+    {
+      "name": "ze_atos_v1_10.bsp.bz2",
+      "lastModified": "2019-08-30 10:14  "
+    },
+    {
+      "name": "ze_best_korea_v1.bsp.bz2",
+      "lastModified": "2019-09-19 14:10  "
+    },
+    {
+      "name": "ze_best_korea_v1.nav.bz2",
+      "lastModified": "2019-09-19 14:07  "
+    },
+    {
+      "name": "ze_biohazard2_rpd_004_p3.bsp.bz2",
+      "lastModified": "2019-09-19 15:28  "
+    },
+    {
+      "name": "ze_biohazard2_sewer_004_p8.bsp.bz2",
+      "lastModified": "2019-09-19 15:29  "
+    },
+    {
+      "name": "ze_biohazard3_nemesis_b5_2.bsp.bz2",
+      "lastModified": "2019-08-30 11:21  "
+    },
+    {
+      "name": "ze_biohazard_manor_004_p4.bsp.bz2",
+      "lastModified": "2019-09-19 15:27  "
+    },
+    {
+      "name": "ze_bioshock_v7_1_csgo_a2.bsp.bz2",
+      "lastModified": "2019-08-30 10:56  "
+    },
+    {
+      "name": "ze_bioshock_v7_1_csgo_a2.nav.bz2",
+      "lastModified": "2019-08-30 10:50  "
+    },
+    {
+      "name": "ze_blackmesa_escape_p4.bsp.bz2",
+      "lastModified": "2019-09-19 14:44  "
+    },
+    {
+      "name": "ze_blackmesa_escape_p4.nav.bz2",
+      "lastModified": "2019-09-19 14:44  "
+    },
+    {
+      "name": "ze_blocky_mess_b2.bsp.bz2",
+      "lastModified": "2019-09-19 15:04  "
+    },
+    {
+      "name": "ze_blue_zenith_v0_1.bsp.bz2",
+      "lastModified": "2019-08-30 11:07  "
+    },
+    {
+      "name": "ze_cancer_gopnik_escape_v8.bsp.bz2",
+      "lastModified": "2019-08-30 10:51  "
+    },
+    {
+      "name": "ze_cancer_gopnik_escape_v8.nav.bz2",
+      "lastModified": "2019-08-30 10:50  "
+    },
+    {
+      "name": "ze_castlevania_64_v1_3_b3_go.bsp.bz2",
+      "lastModified": "2019-10-08 17:50  "
+    },
+    {
+      "name": "ze_castlevania_p1_7.bsp.bz2",
+      "lastModified": "2019-09-19 14:57  "
+    },
+    {
+      "name": "ze_castlevania_p1_7.nav.bz2",
+      "lastModified": "2019-09-19 14:56  "
+    },
+    {
+      "name": "ze_ccc_azteclsd_v1.bsp.bz2",
+      "lastModified": "2019-09-19 14:54  "
+    },
+    {
+      "name": "ze_ccc_floator_mislands_timantetrix_v2.bsp.bz2",
+      "lastModified": "2019-09-19 14:54  "
+    },
+    {
+      "name": "ze_chaos_v7_4f.bsp.bz2",
+      "lastModified": "2019-08-31 18:58  "
+    },
+    {
+      "name": "ze_chicken_ranch_v2_1.bsp.bz2",
+      "lastModified": "2019-09-19 15:22  "
+    },
+    {
+      "name": "ze_colourslide_v2_2.bsp.bz2",
+      "lastModified": "2019-09-19 15:06  "
+    },
+    {
+      "name": "ze_copy_escape_v1_1.bsp.bz2",
+      "lastModified": "2019-08-30 18:17  "
+    },
+    {
+      "name": "ze_crazy_escape_v5_5_1.bsp.bz2",
+      "lastModified": "2019-08-15 14:29  "
+    },
+    {
+      "name": "ze_crazy_escape_v5_5_1.nav.bz2",
+      "lastModified": "2019-08-15 14:27  "
+    },
+    {
+      "name": "ze_crazykart_v4.bsp.bz2",
+      "lastModified": "2019-08-30 09:42  "
+    },
+    {
+      "name": "ze_crazykart_v4.nav.bz2",
+      "lastModified": "2019-08-30 09:40  "
+    },
+    {
+      "name": "ze_crystal_a5.bsp.bz2",
+      "lastModified": "2019-08-30 16:43  "
+    },
+    {
+      "name": "ze_cv_losii_castle_siege_b4.nav.bz2",
+      "lastModified": "2019-08-30 17:10  "
+    },
+    {
+      "name": "ze_danmaku_v1_5.bsp.bz2",
+      "lastModified": "2019-08-30 17:13  "
+    },
+    {
+      "name": "ze_dark_souls_ptd_v0_4_csgo7.bsp.bz2",
+      "lastModified": "2019-12-18 14:43  "
+    },
+    {
+      "name": "ze_deadcore_v1_3.bsp.bz2",
+      "lastModified": "2019-08-15 14:29  "
+    },
+    {
+      "name": "ze_deadcore_v1_3.nav.bz2",
+      "lastModified": "2019-08-15 14:29  "
+    },
+    {
+      "name": "ze_destruction_of_exorath_v4_lite.bsp.bz2",
+      "lastModified": "2019-09-19 15:15  "
+    },
+    {
+      "name": "ze_destruction_of_exorath_v4_lite.nav.bz2",
+      "lastModified": "2019-09-19 15:13  "
+    },
+    {
+      "name": "ze_diddle_v3.bsp.bz2",
+      "lastModified": "2019-09-19 15:04  "
+    },
+    {
+      "name": "ze_diddle_v3.nav.bz2",
+      "lastModified": "2019-09-19 15:01  "
+    },
+    {
+      "name": "ze_doom3_v1_b4k.bsp.bz2",
+      "lastModified": "2019-12-18 14:50  "
+    },
+    {
+      "name": "ze_draco_accidere_v4_final.bsp.bz2",
+      "lastModified": "2019-08-30 09:37  "
+    },
+    {
+      "name": "ze_draco_accidere_v4_final.nav.bz2",
+      "lastModified": "2019-08-30 09:34  "
+    },
+    {
+      "name": "ze_drakelord_castle_b3.bsp.bz2",
+      "lastModified": "2019-09-19 14:52  "
+    },
+    {
+      "name": "ze_drakelord_castle_b3.nav.bz2",
+      "lastModified": "2019-09-19 14:52  "
+    },
+    {
+      "name": "ze_dreamin_v2_3.bsp.bz2",
+      "lastModified": "2019-09-19 14:48  "
+    },
+    {
+      "name": "ze_easy_escape_v4.bsp.bz2",
+      "lastModified": "2019-09-19 13:19  "
+    },
+    {
+      "name": "ze_easy_escape_v4.nav.bz2",
+      "lastModified": "2019-09-19 13:19  "
+    },
+    {
+      "name": "ze_eden_a2.bsp.bz2",
+      "lastModified": "2019-08-30 11:20  "
+    },
+    {
+      "name": "ze_egyptian_b5.bsp.bz2",
+      "lastModified": "2019-08-30 10:38  "
+    },
+    {
+      "name": "ze_einstein_v7.bsp.bz2",
+      "lastModified": "2019-08-30 11:04  "
+    },
+    {
+      "name": "ze_epic_escape_v1_2.bsp.bz2",
+      "lastModified": "2019-08-30 16:38  "
+    },
+    {
+      "name": "ze_epic_escape_v1_2.nav.bz2",
+      "lastModified": "2019-08-30 16:36  "
+    },
+    {
+      "name": "ze_eternal_grove_v3.bsp.bz2",
+      "lastModified": "2019-09-19 12:57  "
+    },
+    {
+      "name": "ze_eternal_grove_v3.nav.bz2",
+      "lastModified": "2019-09-19 12:53  "
+    },
+    {
+      "name": "ze_eternal_journey_go_v1_4.bsp.bz2",
+      "lastModified": "2019-08-30 10:00  "
+    },
+    {
+      "name": "ze_evernight_a3_4.bsp.bz2",
+      "lastModified": "2019-09-19 14:20  "
+    },
+    {
+      "name": "ze_evil_mansion_v1_finalf.bsp.bz2",
+      "lastModified": "2019-09-19 15:23  "
+    },
+    {
+      "name": "ze_evil_mansion_v1_finalf.nav.bz2",
+      "lastModified": "2019-09-19 15:23  "
+    },
+    {
+      "name": "ze_fapescape_rote_v1_3.bsp.bz2",
+      "lastModified": "2019-09-19 15:20  "
+    },
+    {
+      "name": "ze_farmhouse_v9f2.bsp.bz2",
+      "lastModified": "2019-09-21 11:26  "
+    },
+    {
+      "name": "ze_fcescape_b2.bsp.bz2",
+      "lastModified": "2019-08-30 11:32  "
+    },
+    {
+      "name": "ze_ffvii_cosmo_canyon_v5k_fix.bsp.bz2",
+      "lastModified": "2019-08-15 14:32  "
+    },
+    {
+      "name": "ze_ffvii_cosmo_canyon_v5k_fix.nav.bz2",
+      "lastModified": "2019-08-15 14:29  "
+    },
+    {
+      "name": "ze_ffvii_mako_reactor_p8.bsp.bz2",
+      "lastModified": "2019-08-15 14:31  "
+    },
+    {
+      "name": "ze_ffvii_mako_reactor_p8.nav.bz2",
+      "lastModified": "2019-08-15 14:31  "
+    },
+    {
+      "name": "ze_ffvii_mako_reactor_v6_b09_b1k.bsp.bz2",
+      "lastModified": "2019-08-15 14:35  "
+    },
+    {
+      "name": "ze_ffvii_mako_reactor_v6_b09_b1k.nav.bz2",
+      "lastModified": "2019-08-15 14:32  "
+    },
+    {
+      "name": "ze_ffvii_malgo_reactor_v6_b06.bsp.bz2",
+      "lastModified": "2019-09-19 12:08  "
+    },
+    {
+      "name": "ze_ffvii_malgo_reactor_v6_b14.bsp.bz2",
+      "lastModified": "2019-10-11 17:44  "
+    },
+    {
+      "name": "ze_ffvii_malgo_reactor_v6_b16.bsp.bz2",
+      "lastModified": "2019-10-29 16:12  "
+    },
+    {
+      "name": "ze_ffvii_temple_ancient_v4_3.bsp.bz2",
+      "lastModified": "2019-09-19 15:32  "
+    },
+    {
+      "name": "ze_ffxii_ridorana_cataract_t4_ps3.bsp.bz2",
+      "lastModified": "2019-09-19 15:34  "
+    },
+    {
+      "name": "ze_ffxii_westersand_v8zeta1_b5k.bsp.bz2",
+      "lastModified": "2019-09-19 15:36  "
+    },
+    {
+      "name": "ze_ffxiv_wanderers_palace_v2_va2.bsp.bz2",
+      "lastModified": "2019-09-19 15:38  "
+    },
+    {
+      "name": "ze_ffxiv_wanderers_palace_v4_va2.bsp.bz2",
+      "lastModified": "2019-09-19 15:38  "
+    },
+    {
+      "name": "ze_ffxiv_wanderers_palace_v5_2.nav.bz2",
+      "lastModified": "2019-09-24 17:36  "
+    },
+    {
+      "name": "ze_floating_rocks_survival_csgo_v3.bsp.bz2",
+      "lastModified": "2019-09-19 15:09  "
+    },
+    {
+      "name": "ze_floating_rocks_survival_csgo_v3.nav.bz2",
+      "lastModified": "2019-09-19 15:09  "
+    },
+    {
+      "name": "ze_flowing_b01_fix.bsp.bz2",
+      "lastModified": "2019-08-31 19:02  "
+    },
+    {
+      "name": "ze_forgotten_factory_vtest.bsp.bz2",
+      "lastModified": "2019-09-19 14:00  "
+    },
+    {
+      "name": "ze_forsaken_temple_v3_b4.bsp.bz2",
+      "lastModified": "2019-09-26 17:08  "
+    },
+    {
+      "name": "ze_frostdrake_tower_v1.bsp.bz2",
+      "lastModified": "2019-09-19 15:25  "
+    },
+    {
+      "name": "ze_games_v2_1.bsp.bz2",
+      "lastModified": "2019-09-19 15:23  "
+    },
+    {
+      "name": "ze_greencity.bsp.bz2",
+      "lastModified": "2019-09-19 15:23  "
+    },
+    {
+      "name": "ze_greencity.nav.bz2",
+      "lastModified": "2019-09-19 15:22  "
+    },
+    {
+      "name": "ze_gris_in_beta02.bsp.bz2",
+      "lastModified": "2019-09-19 14:58  "
+    },
+    {
+      "name": "ze_gris_v1_13.bsp.bz2",
+      "lastModified": "2019-09-19 15:40  "
+    },
+    {
+      "name": "ze_hidden_temple_v2_5.bsp.bz2",
+      "lastModified": "2019-09-19 15:08  "
+    },
+    {
+      "name": "ze_hidden_temple_v2_5.nav.bz2",
+      "lastModified": "2019-09-19 15:06  "
+    },
+    {
+      "name": "ze_hsc_a3_rc2_1.bsp.bz2",
+      "lastModified": "2019-09-19 15:01  "
+    },
+    {
+      "name": "ze_illya_b4_csgo_a3.bsp.bz2",
+      "lastModified": "2019-08-30 10:53  "
+    },
+    {
+      "name": "ze_inboxed_final.bsp.bz2",
+      "lastModified": "2019-09-19 15:22  "
+    },
+    {
+      "name": "ze_inboxed_final.nav.bz2",
+      "lastModified": "2019-09-19 15:22  "
+    },
+    {
+      "name": "ze_infiltration_final_r1.bsp.bz2",
+      "lastModified": "2019-09-19 15:03  "
+    },
+    {
+      "name": "ze_infiltration_final_r1.nav.bz2",
+      "lastModified": "2019-09-19 15:01  "
+    },
+    {
+      "name": "ze_insensible_sr8gm6yj12hs7_RG_v9_6.bsp.bz2",
+      "lastModified": "2019-09-19 15:09  "
+    },
+    {
+      "name": "ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3.bsp.bz2",
+      "lastModified": "2019-09-19 14:59  "
+    },
+    {
+      "name": "ze_jerry_malaka_escape_v2fix.bsp.bz2",
+      "lastModified": "2019-10-29 09:42  "
+    },
+    {
+      "name": "ze_jerry_malaka_escape_v2fix.nav.bz2",
+      "lastModified": "2019-10-29 09:42  "
+    },
+    {
+      "name": "ze_jjba_v3t2.bsp.bz2",
+      "lastModified": "2019-08-30 10:27  "
+    },
+    {
+      "name": "ze_jjba_v3t2.nav.bz2",
+      "lastModified": "2019-08-30 10:25  "
+    },
+    {
+      "name": "ze_journey_p4.bsp.bz2",
+      "lastModified": "2019-12-18 19:25  "
+    },
+    {
+      "name": "ze_jurassicpark_evolved_v4.bsp.bz2",
+      "lastModified": "2019-09-19 15:18  "
+    },
+    {
+      "name": "ze_kitchen_v2.bsp.bz2",
+      "lastModified": "2019-08-30 09:37  "
+    },
+    {
+      "name": "ze_komatsu_v3.bsp.bz2",
+      "lastModified": "2019-08-30 17:11  "
+    },
+    {
+      "name": "ze_laserend_v3.bsp.bz2",
+      "lastModified": "2019-08-30 10:12  "
+    },
+    {
+      "name": "ze_licciana_escape_zrgbr_b3.bsp.bz2",
+      "lastModified": "2019-08-15 14:35  "
+    },
+    {
+      "name": "ze_licciana_escape_zrgbr_b3.nav.bz2",
+      "lastModified": "2019-08-15 14:35  "
+    },
+    {
+      "name": "ze_lila_panic_escape_v3.bsp.bz2",
+      "lastModified": "2019-12-17 21:57  "
+    },
+    {
+      "name": "ze_lolxd_final_fix_iswear_v3.bsp.bz2",
+      "lastModified": "2019-09-19 14:58  "
+    },
+    {
+      "name": "ze_lotr_minas_tirith_p5.bsp.bz2",
+      "lastModified": "2019-09-25 09:58  "
+    },
+    {
+      "name": "ze_minecraft_adventure_v1_3d.bsp.bz2",
+      "lastModified": "2019-09-19 15:25  "
+    },
+    {
+      "name": "ze_misaka_v1_6.bsp.bz2",
+      "lastModified": "2019-08-31 17:34  "
+    },
+    {
+      "name": "ze_mist_q3.bsp.bz2",
+      "lastModified": "2019-09-21 11:19  "
+    },
+    {
+      "name": "ze_mlgsurf_v1_2.bsp.bz2",
+      "lastModified": "2019-09-19 14:48  "
+    },
+    {
+      "name": "ze_mojos_minigames_v1_4_1.bsp.bz2",
+      "lastModified": "2019-08-30 16:42  "
+    },
+    {
+      "name": "ze_monochrome_v1f.bsp.bz2",
+      "lastModified": "2019-08-31 18:55  "
+    },
+    {
+      "name": "ze_necromanteion_v2_5.bsp.bz2",
+      "lastModified": "2019-08-30 18:08  "
+    },
+    {
+      "name": "ze_necromanteion_v2_5.nav.bz2",
+      "lastModified": "2019-08-30 18:04  "
+    },
+    {
+      "name": "ze_new_crazy_escape_v4_1.bsp.bz2",
+      "lastModified": "2019-09-19 13:21  "
+    },
+    {
+      "name": "ze_new_crazy_escape_v4_1.nav.bz2",
+      "lastModified": "2019-09-19 13:19  "
+    },
+    {
+      "name": "ze_new_panic_escape_csgo_a3t.bsp.bz2",
+      "lastModified": "2019-08-30 10:25  "
+    },
+    {
+      "name": "ze_nuclear_site_survie_by_gm.bsp.bz2",
+      "lastModified": "2019-08-30 11:33  "
+    },
+    {
+      "name": "ze_omen_090.bsp.bz2",
+      "lastModified": "2019-08-30 11:34  "
+    },
+    {
+      "name": "ze_pallaroid_rage_v1.bsp.bz2",
+      "lastModified": "2019-08-30 11:31  "
+    },
+    {
+      "name": "ze_pandora_revolutionz_hdr.bsp.bz2",
+      "lastModified": "2019-08-31 19:00  "
+    },
+    {
+      "name": "ze_paranoia_a.bsp.bz2",
+      "lastModified": "2019-10-30 16:32  "
+    },
+    {
+      "name": "ze_paranoia_a.nav.bz2",
+      "lastModified": "2019-10-30 16:31  "
+    },
+    {
+      "name": "ze_paranoia_a1.bsp.bz2",
+      "lastModified": "2019-11-05 15:14  "
+    },
+    {
+      "name": "ze_paranoia_a1.nav.bz2",
+      "lastModified": "2019-11-05 15:14  "
+    },
+    {
+      "name": "ze_pizzatime_v9.bsp.bz2",
+      "lastModified": "2019-09-19 14:51  "
+    },
+    {
+      "name": "ze_pizzatime_v9.nav.bz2",
+      "lastModified": "2019-09-19 14:50  "
+    },
+    {
+      "name": "ze_pkmn_adventure_v9_3.bsp.bz2",
+      "lastModified": "2019-08-30 11:32  "
+    },
+    {
+      "name": "ze_platformer_b6.bsp.bz2",
+      "lastModified": "2019-09-24 10:19  "
+    },
+    {
+      "name": "ze_project_alcaria_x2.bsp.bz2",
+      "lastModified": "2019-08-30 11:06  "
+    },
+    {
+      "name": "ze_project_alcaria_x2.nav.bz2",
+      "lastModified": "2019-08-30 11:04  "
+    },
+    {
+      "name": "ze_r4zor_final.bsp.bz2",
+      "lastModified": "2019-08-28 19:57  "
+    },
+    {
+      "name": "ze_r4zor_final.nav.bz2",
+      "lastModified": "2019-08-28 19:57  "
+    },
+    {
+      "name": "ze_rainbow_factory_v2.bsp.bz2",
+      "lastModified": "2019-09-19 15:24  "
+    },
+    {
+      "name": "ze_random_escape_csgo.bsp.bz2",
+      "lastModified": "2019-10-02 21:47  "
+    },
+    {
+      "name": "ze_rats_escape_final.bsp.bz2",
+      "lastModified": "2019-08-30 10:38  "
+    },
+    {
+      "name": "ze_re_creation_b2_20.bsp.bz2",
+      "lastModified": "2019-08-30 10:13  "
+    },
+    {
+      "name": "ze_reloaded_v1_ez2.bsp.bz2",
+      "lastModified": "2019-09-19 15:12  "
+    },
+    {
+      "name": "ze_roof_adventure_v8f.bsp.bz2",
+      "lastModified": "2019-08-30 15:15  "
+    },
+    {
+      "name": "ze_ruinsinchaos_v2beta.bsp.bz2",
+      "lastModified": "2019-08-30 15:13  "
+    },
+    {
+      "name": "ze_rush_b_v1_4.bsp.bz2",
+      "lastModified": "2019-09-28 20:31  "
+    },
+    {
+      "name": "ze_sakuzyo_b2.bsp.bz2",
+      "lastModified": "2019-08-30 09:39  "
+    },
+    {
+      "name": "ze_samsung_galaxy_v1_0d.bsp.bz2",
+      "lastModified": "2019-08-30 10:01  "
+    },
+    {
+      "name": "ze_sandstorm_go_v1_5.bsp.bz2",
+      "lastModified": "2019-08-30 09:57  "
+    },
+    {
+      "name": "ze_santassination_v3.bsp.bz2",
+      "lastModified": "2019-09-19 15:18  "
+    },
+    {
+      "name": "ze_santassination_v3.nav.bz2",
+      "lastModified": "2019-09-19 15:15  "
+    },
+    {
+      "name": "ze_shroomforest2_p6.bsp.bz2",
+      "lastModified": "2019-09-29 15:34  "
+    },
+    {
+      "name": "ze_shroomforest_p6.bsp.bz2",
+      "lastModified": "2019-09-29 15:32  "
+    },
+    {
+      "name": "ze_sky_fantasy_v1_2.bsp.bz2",
+      "lastModified": "2019-08-30 09:57  "
+    },
+    {
+      "name": "ze_sorrento_escape_v2.bsp.bz2",
+      "lastModified": "2019-09-19 15:20  "
+    },
+    {
+      "name": "ze_spacelab_noma_b1.bsp.bz2",
+      "lastModified": "2019-08-30 11:06  "
+    },
+    {
+      "name": "ze_square_r.bsp.bz2",
+      "lastModified": "2019-08-30 17:36  "
+    },
+    {
+      "name": "ze_surf_dark_fantasy_v1go3.bsp.bz2",
+      "lastModified": "2019-08-30 09:40  "
+    },
+    {
+      "name": "ze_surf_dark_fantasy_v1go3.nav.bz2",
+      "lastModified": "2019-09-26 16:54  "
+    },
+    {
+      "name": "ze_surf_froyo_v2_2.bsp.bz2",
+      "lastModified": "2019-09-14 10:48  "
+    },
+    {
+      "name": "ze_surf_galaxy_Zena_v2.bsp",
+      "lastModified": "2019-08-30 10:03  "
+    },
+    {
+      "name": "ze_surf_gypt_v1_3_1f.bsp.bz2",
+      "lastModified": "2019-08-30 17:13  "
+    },
+    {
+      "name": "ze_temple_of_the_demon_god_v2.bsp.bz2",
+      "lastModified": "2019-09-19 12:11  "
+    },
+    {
+      "name": "ze_temple_of_the_demon_god_v2.nav.bz2",
+      "lastModified": "2019-09-19 12:11  "
+    },
+    {
+      "name": "ze_ten_keys_v1_9.bsp",
+      "lastModified": "2019-08-15 14:47  "
+    },
+    {
+      "name": "ze_ten_keys_v1_9.nav.bz2",
+      "lastModified": "2019-08-15 14:37  "
+    },
+    {
+      "name": "ze_tesv_skyrim_v5_6.bsp",
+      "lastModified": "2019-12-18 15:21  "
+    },
+    {
+      "name": "ze_the_last_chapter_v1_5.bsp.bz2",
+      "lastModified": "2019-08-30 11:09  "
+    },
+    {
+      "name": "ze_the_last_chapter_v1_5.nav.bz2",
+      "lastModified": "2019-08-30 11:06  "
+    },
+    {
+      "name": "ze_three_eyes_v0_7.bsp.bz2",
+      "lastModified": "2019-08-31 18:48  "
+    },
+    {
+      "name": "ze_tibia_rookgaard_v3.bsp.bz2",
+      "lastModified": "2019-08-30 10:53  "
+    },
+    {
+      "name": "ze_tibia_rookgaard_v3.cfg.bz2",
+      "lastModified": "2019-08-30 10:53  "
+    },
+    {
+      "name": "ze_tilex_ultimate_v2_13e.bsp.bz2",
+      "lastModified": "2019-08-15 14:39  "
+    },
+    {
+      "name": "ze_tilex_ultimate_v2_13e.nav.bz2",
+      "lastModified": "2019-08-15 14:39  "
+    },
+    {
+      "name": "ze_titanlaser_b2.bsp.bz2",
+      "lastModified": "2019-12-16 14:17  "
+    },
+    {
+      "name": "ze_titanlaser_b2.nav.bz2",
+      "lastModified": "2019-12-16 14:17  "
+    },
+    {
+      "name": "ze_tkara_v4_3.bsp.bz2",
+      "lastModified": "2019-09-19 15:13  "
+    },
+    {
+      "name": "ze_training_map_v1_1.bsp",
+      "lastModified": "2019-08-15 14:44  "
+    },
+    {
+      "name": "ze_ultimate_autism_b2.bsp.bz2",
+      "lastModified": "2019-09-19 15:06  "
+    },
+    {
+      "name": "ze_underground_station_v3.bsp.bz2",
+      "lastModified": "2019-08-30 17:15  "
+    },
+    {
+      "name": "ze_undertale_g_v1_3.bsp.bz2",
+      "lastModified": "2019-09-19 15:10  "
+    },
+    {
+      "name": "ze_valkvang_v1_2.bsp.bz2",
+      "lastModified": "2019-09-27 10:24  "
+    },
+    {
+      "name": "ze_whothefuckiam_v2_4.bsp.bz2",
+      "lastModified": "2019-09-19 15:05  "
+    },
+    {
+      "name": "ze_world_escapes_v1.bsp.bz2",
+      "lastModified": "2019-08-30 17:32  "
+    },
+    {
+      "name": "ze_onahole_v145.bsp.bz2",
+      "lastModified": "2019-12-23 12:33  "
+    },
+    {
+      "name": "ze_stillalive?.bsp.bz2",
+      "lastModified": "2019-12-23 14:47  "
+    },
+    {
+      "name": "ze_changestylerudeboy.bsp.bz2",
+      "lastModified": "2019-12-23 22:46  "
+    },
+    {
+      "name": "ze_sleepingisnormalyoufaggots.bsp.bz2",
+      "lastModified": "2019-12-24 11:21  "
+    },
+    {
+      "name": "ze_escapefromniggers.bsp.bz2",
+      "lastModified": "2019-12-24 11:31  "
+    },
+    {
+      "name": "ze_pepe.bsp.bz2",
+      "lastModified": "2019-12-24 11:32  "
+    },
+    {
+      "name": "ze_itshere.bsp.bz2",
+      "lastModified": "2019-12-24 11:49  "
+    },
+    {
+      "name": "ze_youhere?.bsp.bz2",
+      "lastModified": "2019-12-24 12:15  "
+    },
+    {
+      "name": "ze_sdsd.bsp.bz2",
+      "lastModified": "2019-12-24 12:33  "
+    },
+    {
+      "name": "ze_test.bsp.bz2",
+      "lastModified": "2019-12-24 13:15  "
+    },
+    {
+      "name": "ze_test.bsp.bz2",
+      "lastModified": "2019-12-24 13:15  "
+    },
+    {
+      "name": "ze_Naruto_p.bsp.bz2",
+      "lastModified": "2019-12-24 13:23  "
+    },
+    {
+      "name": "ze_Naruto_p.bsp.bz2",
+      "lastModified": "2019-12-24 13:21  "
+    },
+    {
+      "name": "ze_Paranoid_Rezurrection_v11_9_ps14.bsp.bz2",
+      "lastModified": "2019-12-24 13:27  "
+    },
+    {
+      "name": "ze_Paranoid_Rezurrection_v11_9_ps14.bsp.bz2",
+      "lastModified": "2019-12-24 13:24  "
+    },
+    {
+      "name": "ze_S_A_M_v1_7.bsp.bz2",
+      "lastModified": "2019-12-24 13:30  "
+    },
+    {
+      "name": "ze_S_A_M_v1_7.bsp.bz2",
+      "lastModified": "2019-12-24 13:27  "
+    },
+    {
+      "name": "ze_dreamin_v2_4.bsp.bz2",
+      "lastModified": "2019-12-24 13:35  "
+    },
+    {
+      "name": "ze_dreamin_v2_4.bsp.bz2",
+      "lastModified": "2019-12-24 13:33  "
+    },
+    {
+      "name": "ze_icecap_escape_v5_p.bsp.bz2",
+      "lastModified": "2019-12-24 13:34  "
+    },
+    {
+      "name": "ze_indiana_jones_v4a_004_p4.bsp.bz2",
+      "lastModified": "2019-12-24 13:38  "
+    },
+    {
+      "name": "ze_necromanteion_v3_1.bsp.bz2",
+      "lastModified": "2019-12-24 13:41  "
+    },
+    {
+      "name": "ze_necromanteion_v3_1.bsp.bz2",
+      "lastModified": "2019-12-24 13:39  "
+    },
+    {
+      "name": "ze_saw_p3.bsp.bz2",
+      "lastModified": "2019-12-24 13:44  "
+    },
+    {
+      "name": "ze_saw_p3.bsp.bz2",
+      "lastModified": "2019-12-24 13:43  "
+    }
+  ]
+}
