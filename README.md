@@ -1,8 +1,8 @@
-# Discord bot
-A bot for discord.
+# Description
+Discord bot who fetches information from WozEp website for map changes in CS:GO zombie escape server.
 
-## Yet to be decided what will be doing
+## License
 
 ```
-:)))
+free
 ```
